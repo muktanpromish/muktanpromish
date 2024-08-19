@@ -1,6 +1,6 @@
 # About me
 
-👋 Hi, I'm Promish, Originally from Himayals(Nepal). Currently residing in Oxford, United Kingdom!
+👋 Hi, I'm Promish, Originally from Nepal. Currently, residing in Oxford, United Kingdom!
 
 💻 Professionally helping teams with Business Mapping & Data Exploration.  
 

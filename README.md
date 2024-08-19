@@ -4,14 +4,14 @@
 
 🎯 Currently, I’m focused on: <br>
 Data Assurance Engineer at <a href="https://www.Dimitra.io" target="_blank" title="dimitra.io"> Dimitra.io</a>, working in the AgTech sector.<br>
-Data Exploration and AI Product Development at <a href="https://www.ourbuddy.ai" target="_blank" title="Ourbuddy.ai">Ourbuddy.ai</a>, specializing in the brokerage and insurance domains.
+Data Exploration and AI Product Development at <a href="https://www.ourbuddy.ai" target="_blank" title="Ourbuddy.ai">Ourbuddy.ai</a>, Brokerage and Insurance domain.
 
 💻 Professionally helping teams with Business Mapping & Data Exploration.  
 🌱 Passionate about Coffee Processing & Climate science.  
 🚀 Helping tech start-ups find developers and resources offshore from Nepal.  
 
 🌍 Connect with me at muktanpromish@gmail.com / <a href="https://www.linkedin.com/in/promishmuktan/" target="_blank" title="Connect on LinkedIn">
-  <img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" height="28" width="100" >
+  <img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" height="20" width="80" >
 </a>  
 
 You can check out my coffee journey at <a href="https://www.coffeeofpromise.com/why-coffeeofpromise" target="_blank" title="Coffee from Himalayas">Coffeeofpromise - Built for everyone and every moment.</a>

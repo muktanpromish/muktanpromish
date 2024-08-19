@@ -16,4 +16,4 @@ Data Exploration and AI Product Development at <a href="https://www.ourbuddy.ai"
 
 You can check out my coffee journey at <a href="https://www.coffeeofpromise.com/why-coffeeofpromise" target="_blank" title="Coffee from Himalayas">Coffeeofpromise - Built for everyone and every moment.</a>
 
-Skills: Talent Acquisition, Data Analysis & Visualisation, SQL, Python, Tech Consultation, Coffee Farming & Processing.
+Skills: Talent Acquisition, Data Analysis & Visualisation, SQL, Python, Software Quality Assurance, Tech Consultation, Coffee Farming & Processing.

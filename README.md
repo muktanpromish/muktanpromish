@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me
 
-<!--
-**muktanpromish/muktanpromish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Promish, Originally from Nepal. Currently residing in Oxford, United Kingdom!
+🌱 Passionate about Coffee Processing & Climate science.
+💻 Professionaly helping team with Business Mapping & Data Exploration.
+🚀 Helping tech start-ups find developers and resources offshore in Nepal.
+🎯 Currently focused & collaborating on building AI platform for Insurance/Brokerage industry.
+🌍 Connect with me on muktanpromish@gmail.com / <a href="https://www.linkedin.com/in/promishmuktan/" target="_blank" title="Connect on LinkedIn">
+  <img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" height="28" width="100" >
+</a>
+You can Check out my coffee journey at coffeeofpromise. <a href="https://www.coffeeofpromise.com" target="_blank" title="Coffee from Himalayas">
+  Coffeeofpromise - Build for everyone and every moments.
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
